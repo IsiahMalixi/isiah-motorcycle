@@ -1,4 +1,4 @@
-const GITHUB_REPO = "YOUR_GITHUB_USERNAME/YOUR_REPO_NAME";
+const GITHUB_REPO = "IsiahMalixi/isiah-motorcycle";
 
 const DEFAULT_POSTS = [
   {
